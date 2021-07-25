@@ -1,3 +1,3 @@
 # Installation-Process
-Projject for Installation Process
+Project for Installation Process
 Hello
